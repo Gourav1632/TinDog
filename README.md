@@ -3,4 +3,4 @@
 Created a fun website where the dogs can meet each other in their neighbourhood.
 
 ## Screenshot
-![Screenshot of tindog] (/images/Screenshot (107).png)
+![Screenshot](images/Screenshot (107).png)
